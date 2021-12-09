@@ -1,2 +1,2 @@
-# Simple-Games
+# Simple-Snake
 First game projects
